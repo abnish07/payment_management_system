@@ -1,0 +1,10 @@
+.App {
+    background-color:red;
+    background-image: url(/header-img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    
+
+}

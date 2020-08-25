@@ -1,0 +1,25 @@
+.itemDisplay{
+    display: flex;
+}
+
+body, html{
+    height: 100%;
+}
+
+.background{
+    background-color:red;
+    background-image: url(/main-banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    
+}
+
+img{
+    opacity: 0.5;
+}
+
+.content{
+    color: black;
+}
